@@ -22,3 +22,4 @@ export const tokenProvider = async () => {
 
   return token;
 };
+// some pages customized 

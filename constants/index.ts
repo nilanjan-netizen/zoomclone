@@ -27,7 +27,7 @@ export const sidebarLinks = [
   },
 ];
 
-export const avatarImages = [
+export const   avatarImages = [
   '/images/avatar-1.jpeg',
   '/images/avatar-2.jpeg',
   '/images/avatar-3.png',

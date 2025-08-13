@@ -35,3 +35,5 @@ const Alert = ({ title, iconUrl }: PermissionCardProps) => {
 };
 
 export default Alert;
+
+// some pages customized 
